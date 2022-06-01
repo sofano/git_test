@@ -1,0 +1,2 @@
+text added with echo command in bash
+... !
